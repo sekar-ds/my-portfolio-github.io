@@ -1,0 +1,14 @@
+.top-content{
+    background:url('../assets/new8.jpeg');
+    height: 100vh;
+    padding:130px;
+    background-color: transparent;
+    display: flex;
+    padding-top: -290px;
+    background-repeat: no-repeat;
+    background-position: center;
+    
+    background-size: cover;
+    background-size: contain;
+    border-radius: 4px;
+}
